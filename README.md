@@ -157,6 +157,8 @@ void loop()
 
 Os resultados do projeto não atingiram o seu propósito por completo, por conta de erros mecânicos, o “transferidor de eixo” não suportou a pressão dos fusos em seu estado de funcionamento, assim foi reportado a necessidade de um desenvolvimento e reconstrução do “transferidor de eixo”, para que assim seja possível a movimentação sem o problemas de arrasto.
 
+--- 
+
 ### Autores do projeto
 + Allan Oliveira Cardoso de Sá
 + Fernanda de Azevedo Bastos Fernandes
