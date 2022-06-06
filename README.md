@@ -6,9 +6,6 @@ Ao pensar em um elevador automaticamente é imaginado um mecanismo feito para ap
 
 Ao pensar no projeto, o objetivo inicial é fazer um grande mecanismo que conseguisse mover um caixote na vertical e horizontal para a posição desejada. O elevador teria fusos conectados em motores, que ao girar iriam fazer a intersecção entre os eixos X e Y se movimentar. Nesta, existiria um caixote de madeira que seria a parte de levar os objetos do elevador, e poderia então se mover em qualquer coordenada dentro da caixa. 
 
-
-![Elevador](./img/video.gif)
-
 ---
 
 ## Lista de materiais
